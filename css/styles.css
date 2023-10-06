@@ -4518,13 +4518,14 @@ textarea.form-control-lg {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, .2);
   border-radius: 0.25rem;
 }
 .card:hover {
   cursor: pointer;
   transform: scale(1.05);
-  transition: all 1.2s
+  transition: all 1.2s;
+  box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, .2);
 }
 .card > hr {
   margin-right: 0;
