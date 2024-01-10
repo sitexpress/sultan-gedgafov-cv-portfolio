@@ -53,7 +53,7 @@ window.addEventListener('DOMContentLoaded', event => {
     "Ноябрь 2022 - Ноябрь 2023",
 
     "Development of multi-platform websites. HTML, CSS, SCSS, Gulp, JavaScript, etc.",
-    "Разработка мультиплатформеннх сайтов. HTML, CSS, SCSS, Gulp, JavaScript и т.д.",
+    "Разработка мультиплатформенных сайтов. HTML, CSS, SCSS, Gulp, JavaScript и т.д.",
     
     "April 2022 - August 2022",
     "Апрель 2022 - Август 2022",
