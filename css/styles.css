@@ -4036,6 +4036,7 @@ textarea.form-control-lg {
 .navbar {
   position: relative;
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
@@ -4921,8 +4922,13 @@ textarea.form-control-lg {
   display: flex !important;
 }
 
+a.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
 .d-block-wrapper {
-  /* display: flex;
+  /* display: flex; 
   flex-direction: row;
   justify-content: center;
   gap: 20px; */
@@ -4931,6 +4937,23 @@ textarea.form-control-lg {
   bottom: 20px;
   /* opacity: 0; */
   /* z-index: -9999; */
+}
+
+.profoto {
+  display: inline-block;
+  position: relative;
+}
+
+.profoto .img-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+
+.profoto:hover .img-top {
+  display: inline;
 }
 
 .btn-ln {
