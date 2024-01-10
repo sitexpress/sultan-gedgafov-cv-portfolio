@@ -77,7 +77,7 @@ window.addEventListener('DOMContentLoaded', event => {
     "Программирование включительно (html/css/js/ts/react/redux)",
 
     "September 2021 - May 2022",
-    "Сентябрь 2003 - Май 2022",  
+    "Сентябрь 2021 - Май 2022",  
 
     "Skills",
     "Навыки",
@@ -137,6 +137,8 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
+const x= [1,2,3]
+const y = 
 
 
 });
