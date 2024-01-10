@@ -71,7 +71,7 @@ window.addEventListener('DOMContentLoaded', event => {
     "Сентябрь 2003 - Август 2008",
 
     "Refresher courses",
-    "Курсы повышения квалификации",
+    "IT-Incubator Курсы повышения квалификации",
 
     "Computer technology and programming courses (html/css/js/ts/react/redux)",
     "Программирование включительно (html/css/js/ts/react/redux)",
