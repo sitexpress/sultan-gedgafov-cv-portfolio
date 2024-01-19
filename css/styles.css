@@ -4934,9 +4934,17 @@ a.navbar-brand {
   gap: 20px; */
   position: fixed;
   right: 20px;
-  bottom: 20px;
+  bottom: 70px;
   /* opacity: 0; */
   /* z-index: -9999; */
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  right: 0px;
+  bottom: 5px;
 }
 
 .profoto {
@@ -4954,7 +4962,22 @@ a.navbar-brand {
 
 .profoto:hover .img-top {
   display: inline;
+  z-index: 2;
 }
+
+.profoto .img-top-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+
+.profoto:active .img-top-top {
+  display: inline;
+  z-index:3;
+}
+
 
 .btn-ln {
   display: flex;
@@ -11541,6 +11564,14 @@ section.resume-section .resume-section-content {
 @media (max-width: 992px) {
   .d-sm-none {
     display: none !important;
+  }
+}
+
+@media (max-width: 420px) {
+  .footer {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
   }
 }
 
