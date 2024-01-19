@@ -92,7 +92,6 @@ window.addEventListener('DOMContentLoaded', event => {
     ru.forEach((item,i) => {
         item.addEventListener('click', (e) => {
             e.preventDefault()
-            console.log('ru:', item)
             if (item.classList.length > 1) return
             en.forEach(btn => btn.classList.remove("active"))
             ru.forEach(btn => btn.classList.add("active"))
@@ -104,8 +103,6 @@ window.addEventListener('DOMContentLoaded', event => {
     en.forEach((item, i) => {
         item.addEventListener('click', (e) => {
             e.preventDefault()
-            console.log(e)
-            console.log('en', item)
             if (item.classList.length > 1) return
             ru.forEach(btn => btn.classList.remove("active"))
             en.forEach(btn => btn.classList.add("active"))

@@ -4943,7 +4943,7 @@ a.navbar-brand {
   position: fixed;
   bottom: 0;
   right: 0;
-  right: 0px;
+  right: 10px;
   bottom: 5px;
 }
 
@@ -4976,7 +4976,17 @@ a.navbar-brand {
 .profoto:active .img-top-top {
   display: inline;
   z-index:3;
+
 }
+
+.shad:active {
+  box-shadow: 2px 2px 12px 12px rgba(136, 8, 8, .4);
+    
+}
+
+/* -------------- */
+
+
 
 
 .btn-ln {
@@ -11570,8 +11580,12 @@ section.resume-section .resume-section-content {
 @media (max-width: 420px) {
   .footer {
     position: fixed;
-    right: 0px;
+    right: 10px;
     bottom: 0px;
   }
 }
+
+
+
+
 
