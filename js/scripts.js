@@ -133,14 +133,13 @@ window.addEventListener('DOMContentLoaded', event => {
     "September 2003 - August 2008",
     "Сентябрь 2003 - Август 2008",
 
-    "Refresher courses",
-    "IT-Incubator Курсы повышения квалификации",
 
-    "Computer technology and programming courses (html/css/js/ts/react/redux)",
-    "Программирование включительно (html/css/js/ts/react/redux)",
 
-    "September 2021 - May 2022",
-    "Сентябрь 2021 - Май 2022",  
+    "Frontend courses",
+    "Фронтенд курсы", 
+
+    "November 2023 - February 2024",
+    "Ноябрь 2023 - Февраль 2024",  
 
     "Skills",
     "Навыки",
