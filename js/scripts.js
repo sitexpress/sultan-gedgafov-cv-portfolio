@@ -37,8 +37,8 @@ window.addEventListener('DOMContentLoaded', event => {
     "Sultan Gedgafov",
     "Султан Гедгафов",
 
-    "Hello, I'm Sultan. I'm a frontend developer. I have one and a half year of experience as a front-end developer and currently I’m working on improveing my fronend skill sets. Also in my portfolio you will find several mock projects to evaluate the quality of the code.",
-    "Привет, я Султан. Я фронтенд-разработчик. У меня полуторалетний опыт работы в разработке, и в настоящее время я работаю над улучшением своих навыков во фронтенде. Также у меня в портфолио вы найдете несколько моковых проектов для оценки качества кода.",
+    "Hi, I'm a front-end developer.I have courses behind me and very little work experience. I'm currently working on my frontend skills by doing various portfolio projects. I will be glad to participate in various internships or projects involving volunteering.",
+    "Привет, я фронтенд-разработчик. У меня за плечами курсы и совсем небольшой опыт работы. В настоящее время я работаю над улучшением своих навыков во фронтенде, выполняя различные проекты для портфолио. Буду рад поучаствовать в различных стажировках или проектах предусматривающих волонтёрство.",
 
     "Portfolio",
     "Портфолио",
