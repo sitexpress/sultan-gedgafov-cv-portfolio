@@ -4965,7 +4965,14 @@ a.navbar-brand {
   z-index: 2;
 }
 
-.profoto .img-top-top {
+.img-top:hover:before  {
+  content: "up";
+  position: absolute;
+  top: -30px;
+  left: 70px;
+}
+
+  .profoto .img-top-top .img-top{
   display: none;
   position: absolute;
   top: 0;
